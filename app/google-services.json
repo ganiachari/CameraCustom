@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489803264185",
+    "project_id": "cameracustom-e28aa",
+    "storage_bucket": "cameracustom-e28aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489803264185:android:3a197781c7ac2d0ebeab68",
+        "android_client_info": {
+          "package_name": "com.cameracustom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489803264185-n8ftf8k04e31c14o4sg3us3updvms0km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9BZ_l8ci5KhNs7khC6osMr_qGm9HNO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489803264185-n8ftf8k04e31c14o4sg3us3updvms0km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
